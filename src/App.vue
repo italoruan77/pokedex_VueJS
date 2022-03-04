@@ -77,7 +77,7 @@
            
           </div>
           <div class="modal-footer">
-            <button @click="close()" type="button" class="btn btn-danger mx-auto">Fehar</button>
+            <button @click="close()" type="button" class="btn btn-danger mx-auto">Fechar</button>
           </div>
         </div>
       </div>
